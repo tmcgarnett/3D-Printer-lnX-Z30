@@ -1,3 +1,2 @@
 # 3D-Printer-lnX-Z30
-3D Printer
-This software is free.
+3D Printer lnX Z30's software is free.
